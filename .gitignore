@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+.cache/
+dist/
